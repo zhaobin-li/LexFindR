@@ -1,12 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# LexFindR
+# LexFindR (Open-Source CRAN R Package)
 
-<!-- badges: start -->
-
-[![R-CMD-check](https://github.com/maglab-uconn/LexFindR/workflows/R-CMD-check/badge.svg)](https://github.com/maglab-uconn/LexFindR/actions)
-<!-- badges: end -->
+## Computational Linguistics: Scalable and Customizable Lexical Analysis
 
 This package allows language researchers to generate lexical competitors
 for a given set of words. Generating these competitors is useful for

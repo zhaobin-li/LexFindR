@@ -1,9 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# LexFindR (Open-Source CRAN R Package)
-
-## Computational Linguistics: Scalable and Customizable Lexical Analysis
+# LexFindR: Find Related Items and Lexical Dimensions in a Lexicon
 
 This package allows language researchers to generate lexical competitors
 for a given set of words. Generating these competitors is useful for
